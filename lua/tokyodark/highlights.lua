@@ -133,7 +133,7 @@ M.highlights = {
     Number = { fg = p.purple },
     Float = { fg = p.purple },
     Function = { fg = p.green } + styles.functions,
-    Operator = { fg = p.grey + gamma(1.4) },
+    Operator = { fg = p.cyan + gamma(1.2) },
     Title = { fg = p.yellow },
     Tag = { fg = p.orange },
     Delimiter = { fg = p.fg },
