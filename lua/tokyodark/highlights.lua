@@ -261,7 +261,7 @@ M.highlights = {
     ["@type.definition"] = { link = "Typedef", default = true },
     ["@type.qualifier"] = { link = "Type", default = true },
     ["@variable"] = { fg = p.fg, default = true } + styles.variables,
-    ["@variable.builtin"] = { fg = p.purple + gamma(0.5), default = true },
+    ["@variable.builtin"] = { fg = p.purple, default = true },
 
     -- lsp
     LspCxxHlGroupEnumConstant = { fg = p.orange },
