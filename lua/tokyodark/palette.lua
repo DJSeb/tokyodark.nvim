@@ -3,7 +3,7 @@ local utils = require("tokyodark.utils")
 
 local palette = {
     black = "#06080A",
-    bg0 = "#11121D",
+    bg0 = "#080915",
     bg1 = "#1A1B2A",
     bg2 = "#212234",
     bg3 = "#353945",
