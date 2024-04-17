@@ -21,6 +21,7 @@ local palette = {
     diff_text = "#1C4474",
     fg = "#A0A8CD",
     red = "#EE6D85",
+    white = "#FFFFFF",
     orange = "#F6955B",
     yellow = "#D9D936",
     green = "#55EE61",
